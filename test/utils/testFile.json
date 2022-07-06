@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Woopa1",
+      "githubUsername": "user1",
+      "score": 1,
+      "mission": "node",
+      "stacks": [
+        "javascript",
+        "rust"
+      ]
+    },
+    {
+      "name": "Woopa2",
+      "githubUsername": "user2",
+      "score": 2,
+      "mission": "node",
+      "stacks": [
+        "javascript",
+        "ruby"
+      ]
+    }
+]

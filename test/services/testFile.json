@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Woopa1",
+      "githubUsername": "user1",
+      "score": 15,
+      "mission": "node",
+      "stacks": [
+        "javascript",
+        "rust"
+      ]
+    },
+    {
+      "name": "Woopa2",
+      "githubUsername": "user2",
+      "score": 1,
+      "mission": "ruby",
+      "stacks": [
+        "javascript",
+        "ruby on rails"
+      ]
+    },
+    {
+      "name": "Woopa3",
+      "githubUsername": "user3",
+      "score": 5,
+      "mission": "ruby",
+      "stacks": [
+        "julia",
+        "python",
+        "ruby on rails"
+      ]
+    },
+    {
+      "name": "Woopa4",
+      "githubUsername": "user4",
+      "score": 9,
+      "mission": "node",
+      "stacks": [
+        "c++",
+        "c",
+        "javascript"
+      ]
+    }
+]
