@@ -5,8 +5,12 @@ week 5.
 
 ## Functionality
 
-The bot applies the number validation using the 
-[Fizzbuzz](https://github.com/mariel-rs/fizzbuzz) implementation done on week 4.
+Depending on the input type the bot receives, it will return a different 
+response:
+
+- If the bot receives a number, it will apply the Fizzbuzz number validation. 
+- If the bot receives a string, it will assume the user is giving a mission name
+and interested in the explorers who are enrolled in the given mission.
 
 ## Dependencies
 
